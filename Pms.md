@@ -37,8 +37,10 @@ The system allows users to select frameworks for software projects and provides 
 
 ---
 
+### 📦 GitHub Repository:
+[🔗 View on GitHub](https://github.com/Sierraaaaaaaaaaa/pms-do-an-cnpm)
 ### 🔗 Demo Video:
-[🎥 Watch Demo on YouTube](https://youtu.be/demo-link)
+[🎥 Watch Demo on YouTube](https://youtu.be/01EiUz6IgcU)
 
 ---
 
