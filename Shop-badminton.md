@@ -51,7 +51,5 @@ Shop VNB is a simulated e-commerce platform for a badminton sports shop. It prov
 ### 🔗 GitHub Repository:
 [📦 View on GitHub](https://github.com/Sierraaaaaaaaaaa/Shop-badminton)
 
-### 🎥 Demo Video:
-[▶️ Watch demo on YouTube](https://youtu.be/demo-link)
 
 ---
