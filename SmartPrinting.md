@@ -36,10 +36,10 @@ The project aims to streamline the university's printing system for both student
 - Conducted **code reviews** and performed **code refactoring** to optimize maintainability.
 
 ---
-
-### 🔗 Demo Video:
-[🎥 Watch Demo on YouTube](https://youtu.be/O_f7NtuG4kA)
 ### 📦 GitHub Repository:
 [🔗 View on GitHub](https://github.com/MartinDawn/Software_engineering)
+### 🔗 Demo Video:
+[🎥 Watch Demo on YouTube](https://youtu.be/O_f7NtuG4kA)
+
 ---
 
